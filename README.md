@@ -11,7 +11,7 @@
 ## Tabla de Contenidos
 - [Descripción General](#descripción-general)
 - [Características](#características)
-- [Arquitectura del Proyecto](#arquitectura-del-proyecto)
+- [Estructura del Proyecto](#arquitectura-del-proyecto)
 - [Requisitos Previos](#requisitos-previos)
 - [Instalación](#instalación)
 - [Configuración de Kaggle](#configuración-de-kaggle)
